@@ -7,3 +7,6 @@ inherit_gem:
 Rails/OutputSafety:
   Exclude:
     - 'app/controllers/password_resets_controller.rb'
+    
+    
+    
